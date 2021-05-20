@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>Live Market Update</title>
-        <item>
-            <title>Version 2.0.14</title>
-            <description>New features in app</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=market.live.app" sparkle:version="2.0.14" sparkle:os="android" />
-        </item>
-    </channel>
-</rss>
-
+2.0.14
